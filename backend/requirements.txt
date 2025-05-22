@@ -1,0 +1,12 @@
+Flask==2.3.3 #for backend
+Flask-SQLAlchemy==3.1.1 #for database
+Flask-Cors==4.0.0 #for cors
+Flask-Migrate==4.0.5 #for migrations
+psycopg2-binary==2.9.9 #for postgresql
+selenium==4.18.1 #for web scraping with Selenium
+webdriver-manager==4.0.1 #for Chrome driver management
+python-dotenv==1.0.0 #for environment variables
+requests==2.31.0 #for requests
+Werkzeug==2.3.7 #for werkzeug
+APScheduler==3.10.4 #for scheduling tasks
+sqlalchemy==2.0.25 #for ORM database operations
